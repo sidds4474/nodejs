@@ -1,0 +1,19 @@
+Express is nodejs framework theat offers features to develop web
+and mobile apps(like spring framework in java).
+
+
+Features:
+
+1.Most popular framework
+2. Rapid development of node based web applications
+3. Allows us to setup middlewares to respond to HTTP Requests
+4.Defines a routing table which is used to perform different 
+actions based on HTTP Method and URL
+5. Allows to dynamically render HTML pages based on passing
+arguments to templates 
+
+
+
+
+
+
