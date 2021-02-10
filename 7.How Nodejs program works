@@ -1,0 +1,11 @@
+1. The program Initilizes
+2.Requires all the modules
+3.Register the call backs
+4.Start the event loop
+
+
+Thread Pool
+
+Some heavy task are done by thread pool.
+Move heavy task to thread pool from event pool.
+eg. Compression decompression, File system.

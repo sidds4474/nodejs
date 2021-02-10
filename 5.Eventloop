@@ -1,0 +1,14 @@
+A thread is unit of operation that our cpu has to perform for us.
+
+In thread something called event loop is generated.
+
+The role of the event loop is to schedule which operations
+our only thread has to perform at any given point.
+
+
+In simple words, event loops is a mechanism take callbacks
+and register them and when that process is completed they call them back.
+
+Event loop runs automatically.
+
+
