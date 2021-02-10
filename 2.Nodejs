@@ -1,0 +1,32 @@
+Nodejs is
+a platfom built on google chrome v8 engine
+for building fats and scalable apps
+
+It uses
+event driven, non-blocking I/O model(asynchronous feature) 
+making it lightweight and efiicient
+perfect for real time apps
+
+
+nodejs is single threaded unlike java
+
+
+Features:
+
+1. asynchronous and event driven
+2. Very fast uses v8 engine
+3.Hoghly scalable
+4.Used to build web servers
+5.perfect for real time apps(chat apps)
+6.Helps in manipulating files on a file syatem
+
+Where to use nodejs
+1. I/O bound apps
+2. Data streaming apps
+3. Real time apps
+4. Json api apps
+5. Single page apps
+
+Not to be use with cpu intensive apps
+
+

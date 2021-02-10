@@ -1,0 +1,22 @@
+node js dependencies
+
+1. Google v8 engine built in c++
+2. libuv library built in c++
+
+libuv is a multi platform library with focus on asynchrnous i/o. It was 
+developed for use by nodejs.
+
+
+1.File system events
+2.asynchrnous dns resolution
+3.asynchrnous file and file systems opearttions
+4.full featued event loop
+5.threading
+
+other libraries
+llhttp-designed to not make any sys calls or allocations
+c-ares-for some asynchrnous dns requests
+open ssl- implementation of many crypto graphic functions
+zlib-for fast compressions and decompression
+
+

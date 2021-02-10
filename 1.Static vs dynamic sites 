@@ -1,0 +1,16 @@
+Static website-portfolio page
+
+Dynamic website- eg.Facebook(database+created webpage on server side
+using database)
+webpage is send to client side and converted to html css and 
+javascript (only used in web apps)
+processing is done on server side.
+
+Here dynamic means data
+
+
+Another eg of dynamic website - webpage is rendered on client 
+side(API)
+send data in form of json not html css and javascript
+
+then Use in mobile apps or web apps 
